@@ -22,4 +22,13 @@ string[] FilterStrings(string[] array)
 
     return filteredArray;
 }
-string[] inputArray = { "apple", "banana", "cat", "dog", "elephant" };
+{
+    string[] inputArray = { "apple", "banana", "cat", "dog", "elephant" };
+    string[] filteredArray = FilterStrings(inputArray);
+    Console.WriteLine("Новый массив из строк, длина которых меньше или равна 3 символам:");
+    foreach (string str in filteredArray)
+    {
+        Console.WriteLine(str);
+    }
+}
+

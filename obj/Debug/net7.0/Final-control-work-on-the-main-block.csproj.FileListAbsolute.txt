@@ -1,0 +1,14 @@
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.AssemblyInfoInputs.cache
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.AssemblyInfo.cs
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.csproj.CoreCompileInputs.cache
+E:\training\Final-control-work-on-the-main-block\bin\Debug\net7.0\Final-control-work-on-the-main-block.exe
+E:\training\Final-control-work-on-the-main-block\bin\Debug\net7.0\Final-control-work-on-the-main-block.deps.json
+E:\training\Final-control-work-on-the-main-block\bin\Debug\net7.0\Final-control-work-on-the-main-block.runtimeconfig.json
+E:\training\Final-control-work-on-the-main-block\bin\Debug\net7.0\Final-control-work-on-the-main-block.dll
+E:\training\Final-control-work-on-the-main-block\bin\Debug\net7.0\Final-control-work-on-the-main-block.pdb
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.dll
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\refint\Final-control-work-on-the-main-block.dll
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.pdb
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\Final-control-work-on-the-main-block.genruntimeconfig.cache
+E:\training\Final-control-work-on-the-main-block\obj\Debug\net7.0\ref\Final-control-work-on-the-main-block.dll

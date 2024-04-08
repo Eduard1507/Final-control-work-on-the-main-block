@@ -8,3 +8,5 @@ string[] FilterStrings(string[] array)
             count++;
         }
     }
+    string[] filteredArray = new string[count];
+    int index = 0;
